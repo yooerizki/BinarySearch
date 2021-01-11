@@ -1,4 +1,4 @@
-# Selection Short - Buble Short
+# Binary Search
 
 
 ###### ALGORITMA PEMROGRAMAN ######
