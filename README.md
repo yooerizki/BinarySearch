@@ -1,14 +1,10 @@
-## Getting Started
+# Selection Short - Buble Short
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+###### ALGORITMA PEMROGRAMAN ######
+## ALGORITMA SEARCHING (BINARY SEARCH) ##
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+Sebuah program dengan matriks dua dimensi maksimal berukuran 5 x
+5, kemudian tambahkan fitur program agar dapat mencari elemen dalam
+matriks ter
